@@ -1,6 +1,6 @@
 # API de Logística - Foco em Sustentação
 
-Projeto desenvolvido para simular o ecossistema de um marketplace, focando nos requisitos: monitoramento, investigação de defeitos e código limpo.
+Projeto desenvolvido para simular o ecossistema de um marketplace, focando nos requisitos: monitoramento e investigação de defeitos.
 
 ## Tecnologias
 - Java 25 / Spring Boot 3.5.9
